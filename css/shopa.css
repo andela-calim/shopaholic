@@ -1,0 +1,99 @@
+body {
+  margin: 5em auto 0;
+  width: 80%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+  color: #000;
+}
+
+#shopping-logo {
+  height: 1em;
+}
+
+#sign-reg {
+  padding-left: 2em;
+}
+
+#logo {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 3em;
+}
+
+#search-field {
+  display: inline-block;
+  float: right;
+  margin-top: 1em;
+  border: 1px solid #000;
+}
+
+#search-field:focus {
+  border-bottom: none;
+}
+
+
+input[type] {
+  width: 15em;
+  height: 1.5em;
+  border-bottom: none;
+  margin: 0;
+}
+
+#search-btn {
+  background: #000;
+  color: #eee;
+  border: none;
+}
+
+nav {
+  background: #000;
+  box-shadow: none;
+}
+
+nav a:hover {
+  background: #333;
+}
+
+#carousel {
+  height: 21em;
+  background: #464646;
+  margin: 1em 0 3em;
+}
+
+.product {
+  background: #d7d7d7;
+  height: 7em;
+  width: 15em;
+}
+.product-selected {
+  background: #00aeef;
+  height: 7em;
+  width: 15em;
+}
+
+#mini-nav {
+  background: #fff;
+}
+#mini-nav a{
+  background: #fff;
+  color: #000;
+}
+
+.img-logo {
+  height: 15em;
+}
+
+#phones ul li {
+  display: inline-block;
+  width: 20%;
+  margin: 2em 1em;
+  text-align: center;
+}
+
+button {
+  background: #fff200;
+  border: none;
+  height: 2.7em;
+}
